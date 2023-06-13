@@ -1,5 +1,11 @@
 ## Hey 👋
 
+### I'm Justin
+I enjoy working on audio, blinky lights, interactive and immersive experiences. My go-to tools at the moment are TouchDesigner, Teensy, ESP32, EagleCAD, VCV Rack, Ableton Live and VS Code/Platform.io
+
+I'm currently at Oregon Museum of Science and Industry designing electronics and code for exhibits. Otherwise I can be found at [PDX Hackerspace](https://pdxhackerspace.org/), making various stuff or weeding the back yard.
+
+I also herd the cats for a community meetup called [Dorkbot](https://dorkbotpdx.org/), in which people who do strange things with electricity gather to show and tell, and just hang out.
 
 
 <!--
